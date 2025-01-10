@@ -32,8 +32,8 @@ I'm a Full-Stack Developer with 3 years of experience specializing in modern web
 
 ### 📈 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhusalmanish&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhusalmanish&layout=compact&theme=radical)
 
 ---
 
@@ -46,9 +46,8 @@ I'm a Full-Stack Developer with 3 years of experience specializing in modern web
 
 ### 📫 Connect With Me:
 
-- Portfolio: [yourportfolio.com](#)
-- LinkedIn: [Your LinkedIn](#)
-- Twitter: [Your Twitter](#)
+- Portfolio: www.manishbhusal.com.np
+- LinkedIn: https://www.linkedin.com/in/manish-bhusal-9bb384191/
 - Email: manishbhusal.code@gmail.com
 
 ---
