@@ -15,20 +15,20 @@ I'm a Full-Stack Developer with 3 years of experience specializing in modern web
 ### 🚀 Technologies I Work With:
 
 #### Web Development:
-- Frontend: React.js, TypeScript, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js, MongoDB
+- **Frontend:** ![React.js](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 #### Mobile Development:
-- Frameworks: Flutter, React Native
+- **Frameworks:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
 
 #### Deployment & DevOps:
-- Cloud: AWS (EC2, S3, Lambda)
-- Hosting: cPanel, Vercel
-- Containerization: Docker
+- **Cloud:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+- **Hosting:** ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+- **Containerization:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 #### Tools & Platforms:
-- Git, Postman, Figma
-
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ### 📈 GitHub Stats:
 
@@ -49,6 +49,12 @@ I'm a Full-Stack Developer with 3 years of experience specializing in modern web
 - Portfolio: www.manishbhusal.com.np
 - LinkedIn: https://www.linkedin.com/in/manish-bhusal-9bb384191/
 - Email: manishbhusal.code@gmail.com
+
+### 📫 Connect With Me:
+
+- ![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=google-chrome&logoColor=white&style=flat) [Portfolio](https://your-portfolio-link.com)  www.manishbhusal.com.np
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat) [LinkedIn](https://www.linkedin.com/in/your-profile)  https://www.linkedin.com/in/manish-bhusal-9bb384191/
+- ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat) [Email](mailto:your-email@example.com) manishbhusal.code@gmail.com
 
 ---
 
